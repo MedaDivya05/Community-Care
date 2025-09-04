@@ -1,0 +1,228 @@
+{
+  "nav": {
+    "home": "Home",
+    "health": "Health Sessions",
+    "water": "Water Awareness",
+    "waste": "Waste Management",
+    "login": "Login",
+    "signup": "Sign Up",
+    "logout": "Logout"
+  },
+  "home": {
+    "title": "Community Awareness",
+    "subtitle": "Building a cleaner, healthier future together",
+    "hygiene": {
+      "title": "Hygiene Practices",
+      "description": "Learn essential hygiene practices for better health and disease prevention"
+    },
+    "water": {
+      "title": "Water Conservation",
+      "description": "Discover water-saving techniques and sustainable usage practices"
+    },
+    "waste": {
+      "title": "Waste Management",
+      "description": "Master proper waste segregation, recycling, and reduction methods"
+    },
+    "featuredContent": "Featured Educational Content",
+    "featuredContentDescription": "Watch our curated videos to learn more about community health and environmental awareness",
+    "loginToWatch": "Login to watch videos",
+    "loginToWatchLink": "Login to watch"
+  },
+  "preview": {
+    "title": "Community Awareness for Better Living",
+    "subtitle": "Join our platform to learn essential practices for hygiene, water conservation, and waste management. Build a cleaner, healthier future for your community.",
+    "whyChoose": "Why Choose Our Platform?",
+    "whyChooseDescription": "Discover the benefits of joining our community awareness platform",
+    "seeInAction": "See Our Platform in Action",
+    "seeInActionDescription": "Watch how our platform helps communities learn and implement better hygiene, water conservation, and waste management practices.",
+    "readyToMakeDifference": "Ready to Make a Difference?",
+    "readyToMakeDifferenceDescription": "Join our community today and start your journey towards better health and environmental awareness.",
+    "joinNowFree": "Join Now - It's Free",
+    "features": {
+      "healthHygiene": {
+        "title": "Health & Hygiene",
+        "description": "Age-specific health guidance and hygiene practices for all family members"
+      },
+      "waterConservation": {
+        "title": "Water Conservation",
+        "description": "Learn water-saving techniques, rainwater harvesting, and sustainable practices"
+      },
+      "wasteManagement": {
+        "title": "Waste Management",
+        "description": "Master waste segregation, recycling, and find nearby recycling centers"
+      }
+    },
+    "benefits": {
+      "communityDriven": {
+        "title": "Community Driven",
+        "description": "Join thousands of users building healthier communities together"
+      },
+      "expertGuidance": {
+        "title": "Expert Guidance",
+        "description": "Access verified health and environmental tips from certified experts"
+      },
+      "multilingualSupport": {
+        "title": "Multilingual Support",
+        "description": "Available in English, Hindi, and Telugu for better accessibility"
+      }
+    },
+    "principles": {
+      "title": "The 3 R's of Waste Management",
+      "reduce": {
+        "title": "Reduce",
+        "description": "Minimize waste generation at the source"
+      },
+      "reuse": {
+        "title": "Reuse",
+        "description": "Find new purposes for items before discarding"
+      },
+      "recycle": {
+        "title": "Recycle",
+        "description": "Process materials into new products"
+      }
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Welcome Back",
+      "subtitle": "Sign in to your account",
+      "email": "Email",
+      "password": "Password",
+      "button": "Sign In",
+      "noAccount": "Don't have an account?",
+      "signupLink": "Sign up here",
+      "forgotPassword": "Forgot your password?"
+    },
+    "signup": {
+      "title": "Create Account",
+      "subtitle": "Join our community awareness platform",
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "button": "Create Account",
+      "hasAccount": "Already have an account?",
+      "loginLink": "Sign in here"
+    },
+    "forgotPassword": {
+      "title": "Forgot Password",
+      "subtitle": "Enter your email address and we'll send you a link to reset your password",
+      "button": "Send Reset Link",
+      "backToLogin": "Back to Login",
+      "checkEmail": "Check Your Email",
+      "checkEmailDescription": "We've sent a password reset link to your email address. Please check your inbox and follow the instructions to reset your password."
+    },
+    "resetPassword": {
+      "title": "Reset Password",
+      "subtitle": "Enter your new password",
+      "newPassword": "New Password",
+      "confirmNewPassword": "Confirm New Password",
+      "button": "Update Password",
+      "success": "Password Updated",
+      "successDescription": "Your password has been successfully updated. You will be redirected to the login page shortly."
+    },
+    "errors": {
+      "emailRequired": "Email is required",
+      "emailInvalid": "Please enter a valid email",
+      "passwordRequired": "Password is required",
+      "passwordMinLength": "Password must be at least 6 characters",
+      "passwordsNotMatch": "Passwords do not match",
+      "authFailed": "Authentication failed. Please try again.",
+      "resetFailed": "Failed to send reset email. Please try again.",
+      "updateFailed": "Failed to update password. Please try again."
+    }
+  },
+  "health": {
+    "title": "Health Sessions",
+    "subtitle": "Age-specific health and hygiene guidance",
+    "children": {
+      "title": "Children (0-12 years)",
+      "description": "Essential health practices for growing minds and bodies"
+    },
+    "teens": {
+      "title": "Teenagers (13-19 years)",
+      "description": "Health awareness for adolescents and young adults"
+    },
+    "adults": {
+      "title": "Adults (20-59 years)",
+      "description": "Maintaining health and wellness in active years"
+    },
+    "elderly": {
+      "title": "Elderly (60+ years)",
+      "description": "Health management and care for senior citizens"
+    }
+  },
+  "water": {
+    "title": "Water Awareness",
+    "subtitle": "Conserve today for tomorrow",
+    "conservation": {
+      "title": "Water Conservation",
+      "description": "Simple daily practices to reduce water consumption"
+    },
+    "harvesting": {
+      "title": "Rainwater Harvesting",
+      "description": "Collect and store rainwater for sustainable use"
+    },
+    "recycling": {
+      "title": "Water Recycling",
+      "description": "Reuse greywater and treat wastewater effectively"
+    },
+    "techniques": "Water Conservation Techniques",
+    "techniquesDescription": "Learn practical methods to conserve water in your daily life and contribute to environmental sustainability.",
+    "didYouKnow": "Did You Know?",
+    "didYouKnowText": "A single dripping faucet can waste over 3,000 gallons of water per year.",
+    "quickTip": "Quick Tip",
+    "quickTipText": "Collect cold water while waiting for hot water and use it for plants.",
+    "viewAllSteps": "View all {{count}} steps"
+  },
+  "waste": {
+    "title": "Waste Management",
+    "subtitle": "Reduce, Reuse, Recycle",
+    "segregation": {
+      "title": "Waste Segregation",
+      "description": "Proper separation of dry and wet waste"
+    },
+    "reuse": {
+      "title": "Reuse Practices",
+      "description": "Creative ways to give new life to old items"
+    },
+    "recycling": {
+      "title": "Recycling Centers",
+      "description": "Find nearby recycling facilities and centers"
+    },
+    "principles": {
+      "title": "The 3 R's of Waste Management",
+      "reduce": {
+        "title": "Reduce",
+        "description": "Minimize waste generation at the source"
+      },
+      "reuse": {
+        "title": "Reuse",
+        "description": "Find new purposes for items before discarding"
+      },
+      "recycle": {
+        "title": "Recycle",
+        "description": "Process materials into new products"
+      }
+    },
+    "materials": "Materials",
+    "process": "Process",
+    "findNearby": "Find Nearby Recycling Centers",
+    "useLocation": "Use Location",
+    "mapPlaceholder": "Interactive map will be displayed here",
+    "mapInstructions": "Click \"Use Location\" to find nearby centers"
+  },
+  "chatbot": {
+    "title": "AI Assistant",
+    "placeholder": "Ask me anything about hygiene, water, or waste management...",
+    "send": "Send",
+    "defaultMessage": "Hello! I'm here to help you with questions about hygiene, water conservation, and waste management. How can I assist you today?",
+    "online": "Online"
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "watchVideo": "Watch Video",
+    "getStarted": "Get Started",
+    "loading": "Loading...",
+    "error": "Something went wrong. Please try again."
+  }
+}
